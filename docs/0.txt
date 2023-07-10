@@ -1,0 +1,13 @@
+https://www.youtube.com/watch?v=W7HK2yD0_U0&list=PL5dTjWUk_cPbjazI1vRuTRZi6o5QlVAAR&index=2
+
+route => controller => model => databaseConnection
+
+controllers = models = routes
+
+echo "# xmanagement" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/nawafmohd/xmanagement.git
+git push -u origin main
